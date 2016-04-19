@@ -1,8 +1,7 @@
-server/node_modules/
-client/node_modules/
-client/dist
-client/bower_components/
-/.tmp
-/.sass-cache
+**/node_modules/
+/client/dist/
+/client/bower_components/
+*.tmp
+*.sass-cache
 
 
